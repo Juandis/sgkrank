@@ -8,51 +8,51 @@
 
 ### 第一梯队（10 万+ 成员）
 
-1. **巨人社工库【通知频道】** <img src="xiaojuren.jpg" width="40"> —— @xiaojuren（39.1 万 成员）
+1. **巨人社工库【通知频道】** <img src="xiaojuren.jpg" width="40"> —— @xiaojuren（39.1 万成员）
    国内体量最大的社工库通知频道，发布开库、维护、防失联通知，最新机器人 @sgk520，最新频道 @dajuren，查询服务走频道置顶对接。
    https://t.me/xiaojuren
 
-2. **暗精灵通知频道** <img src="a_ajl.jpg" width="40"> —— @a_ajl（32.4 万 成员）
+2. **暗精灵通知频道** <img src="a_ajl.jpg" width="40"> —— @a_ajl（32.4 万成员）
    免费机器人查询模式，频道配套专属查询机器人 @AJL05_bot（可查同名、身份户籍、机主信息、开房记录、快递地址、车牌车主、账号密码等）。
    https://t.me/a_ajl
 
-3. **黑盒社工库官方频道** <img src="heihesgk.jpg" width="40"> —— @heihesgk（16.8 万 成员）
+3. **黑盒社工库官方频道** <img src="heihesgk.jpg" width="40"> —— @heihesgk（16.8 万成员）
    黑盒系列官方频道，主打开房、户籍、开盒类查询接口，频道内不定期放免费额度。
    https://t.me/heihesgk
 
-4. **X-ray 官方通知频道** <img src="xray_sgk_channel.jpg" width="40"> —— @xray_sgk_channel（12.0 万 成员）
+4. **X-ray 官方通知频道** <img src="xray_sgk_channel.jpg" width="40"> —— @xray_sgk_channel（12.0 万成员）
    X-ray 查档官方通知频道，发布系统维护与备用入口，主频道被封时从这里找回；社G库入口 @Xray_E_Bot，要素核验另有专线。
    https://t.me/xray_sgk_channel
 
 ### 第二梯队（1 万–10 万成员）
 
-5. **诸葛查档** <img src="qy7777.jpg" width="40"> —— @qy7777（4.2 万 成员）
+5. **诸葛查档** <img src="qy7777.jpg" width="40"> —— @qy7777（4.2 万成员）
    综合查档频道，简介自带防失联备用入口 @sgk55，查档客服 @w7rbot，主打开房记录、手机定位、户籍查询。
    https://t.me/qy7777
 
-6. **维基百科社工库** <img src="wiki_liemo.jpg" width="40"> —— @wiki_liemo（3.6 万 成员）
+6. **维基百科社工库** <img src="wiki_liemo.jpg" width="40"> —— @wiki_liemo（3.6 万成员）
    科普向社工库频道，附带查询服务入口，适合新手了解社工库原理与常见玩法。
    https://t.me/wiki_liemo
 
-7. **【情报局社工库】高级调查服务频道** <img src="StarNool_PD.jpg" width="40"> —— @StarNool_PD（3.4 万 成员）
+7. **【情报局社工库】高级调查服务频道** <img src="StarNool_PD.jpg" width="40"> —— @StarNool_PD（3.4 万成员）
    主打「高级调查」，深度背调、身份核验类服务，团队背景为律师联合执业，单条内容阅读量高、活跃度强。
    https://t.me/StarNool_PD
 
-8. **信息查询案例模板** <img src="sgk52.jpg" width="40"> —— @sgk52（2.5 万 成员）
+8. **信息查询案例模板** <img src="sgk52.jpg" width="40"> —— @sgk52（2.5 万成员）
    发布查询结果案例与报价模板（关联 @rd7777），适合先看样例再下单的用户。
    https://t.me/sgk52
 
-9. **天眼查｜聊天记录｜开房记录｜手机定位** <img src="tianyanchagx.jpg" width="40"> —— @tianyanchagx（2.0 万 成员）
+9. **天眼查｜聊天记录｜开房记录｜手机定位** <img src="tianyanchagx.jpg" width="40"> —— @tianyanchagx（2.0 万成员）
    综合查档频道，覆盖聊天记录、开房记录、手机定位、全户查询，标题即关键词搜索直达。
    https://t.me/tianyanchagx
 
 ### 第三梯队（1 万以下）
 
-10. **免费社工库 & 天眼查 & 电报中文担保市场** <img src="tg_market_group.jpg" width="40"> —— @tg_market_group（7.9 千 成员）
+10. **免费社工库 & 天眼查 & 电报中文担保市场** <img src="tg_market_group.jpg" width="40"> —— @tg_market_group（7.9 千成员）
     中文电报担保交易市场，市场入口 @JiaoyishichangBot，免费社工库 @SGK985bot，社工库与天眼查服务担保撮合。
     https://t.me/tg_market_group
 
-11. **天眼查 开房记录 手机号定位** <img src="chadang_yu.jpg" width="40"> —— @chadang_yu（3.9 千 成员）
+11. **天眼查 开房记录 手机号定位** <img src="chadang_yu.jpg" width="40"> —— @chadang_yu（3.9 千成员）
     主打开房记录与手机号定位查询，覆盖查档、查人、网逃、卡冻、司法、美团订单、高铁、聊天记录、户籍、银行流水等关键词。
     https://t.me/chadang_yu
 
