@@ -179,7 +179,7 @@
    https://t.me/sima1314
 
 41. **神舟社工库** <img src="szskcx_bot.jpg" width="40"> —— @szskcx_bot
-   You can contact @szskcx_bot right away.
+   神舟社工库查询机器人，配套频道 @shenzhoupd（14.5 万成员），系列自助查询入口，主打常规查档。
    https://t.me/szskcx_bot
 
 42. **巨人社工库【免费机器人6号】** <img src="jrsgk6_bot.jpg" width="40"> —— @jrsgk6_bot
@@ -257,6 +257,18 @@
 58. **FanHuaSGK** <img src="FanHuaSGK_bot.jpg" width="40"> —— @FanHuaSGK_bot
    You can contact @FanHuaSGK_bot right away.
    https://t.me/FanHuaSGK_bot
+
+59. **侦探站社工库** <img src="zhentanzhanbot.jpg" width="40"> —— @zhentanzhanbot
+   侦探站社工库官方查询机器人，人工客服 @zhentanzhang，客服体系清晰，简介自带防骗提醒（认准「侦探长」全拼，多字少字都是骗子），适合走人工对接的用户。
+   https://t.me/zhentanzhanbot
+
+60. **Home 社工库机器人** <img src="HomeSGKBOT.jpg" width="40"> —— @HomeSGKBOT
+   Home 社工库系列查询机器人，简介简洁（TG essential bot），主打基础自助查询，适合入门用户尝试。
+   https://t.me/HomeSGKBOT
+
+61. **魔眼社工库 76** <img src="zhuxi8001bot.jpg" width="40"> —— @zhuxi8001bot
+   魔眼社工库查询机器人（76 号），简介主打服务态度「用心、用功、用脑，服务好所有客户」，系列老牌入口之一。
+   https://t.me/zhuxi8001bot
 
 ## 网站入口（本站资源）
 
