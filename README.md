@@ -269,6 +269,42 @@
    魔眼社工库查询机器人（76 号），简介主打服务态度「用心、用功、用脑，服务好所有客户」，系列老牌入口之一。
    https://t.me/zhuxi8001bot
 
+56. **Karnet 2 机器人** <img src="Kaernet2_bot.jpg" width="40"> —— @Kaernet2_bot
+   卡网系列查询机器人，简介未注明查询范围，具体能力以私聊实测为准。
+   https://t.me/Kaernet2_bot
+
+57. **六扇门查档人·铁手** <img src="liushanmen.jpg" width="40"> —— @liushanmen
+   六扇门系列查档机器人（铁手）。注意：该系列近期有诈骗嫌疑，下单前务必核实对方身份、走担保交易，谨防上当。
+   https://t.me/liushanmen
+
+58. **GnoranceX 社工库机器人** <img src="GnoranceX_bot.jpg" width="40"> —— @GnoranceX_bot
+   学生党开发的免费社工库机器人，支持手机号、身份证、社保记录、QQ号、银行卡、车牌号、全家户籍、贴吧/微博/抖音反查、全国模糊找人、身份证手机号补齐等；免费为主，可先试后付。
+   https://t.me/GnoranceX_bot
+
+59. **云海隐私查询机器人** <img src="Yunhaichaxun_bot.jpg" width="40"> —— @Yunhaichaxun_bot
+   云海系列查询机器人，官方频道 @yhsgkzz，人工客服 @xxxl6uz。
+   https://t.me/Yunhaichaxun_bot
+
+60. **天机阁社工库·乾坤** <img src="tianjigeSGKbot.jpg" width="40"> —— @tianjigeSGKbot
+   天机阁系列机器人，简介与天机阁开户机器人（@cd777）同源；疑似六扇门诈骗系列的分身，注意甄别。
+   https://t.me/tianjigeSGKbot
+
+61. **短信轰炸机** <img src="Carll_Bomb_bot.jpg" width="40"> —— @Carll_Bomb_bot
+   免费短信测压（轰炸）机器人，非社工库查询；商务合作 @zha1889。
+   https://t.me/Carll_Bomb_bot
+
+62. **向量超级社工库** <img src="SgkVectorBot.jpg" width="40"> —— @SgkVectorBot
+   自称超级社工库，实测基本查不到数据，忽悠成分大，不建议付费。
+   https://t.me/SgkVectorBot
+
+63. **liemo 机器人** <img src="hh_liemo_bot.png" width="40"> —— @hh_liemo_bot
+   liemo 系列查询机器人，数据较全、口碑还可以，客服 @hh_liemo_help_bot。
+   https://t.me/hh_liemo_bot
+
+64. **花花免费全球机器人** <img src="sgkvipbot.jpg" width="40"> —— @sgkvipbot
+   花花免费系列老牌机器人，运营时间久，目前数据量少、以免费为主，频道 @sgkhua。
+   https://t.me/sgkvipbot
+
 ## 网站入口（本站资源）
 
 1. **个人信息查询社工库** —— 主流社工库查询入口汇总，支持多库数据比对
