@@ -2,6 +2,29 @@
 
 个人数据泄露自查与社工库查询资源合集，全部链接实测可用，每日自动更新扩库，图文并茂收录快。
 
+<img src="yonghe_banner_tech.jpg" width="600">
+
+## 🔥 永和科技社工矩阵（2026 后起之秀 · 社工新势力）
+
+永和系 2026 年强势崛起，百亿级数据体量，四机联动、7×24 全天候在线，一站覆盖查档全场景：
+
+1. **永和信息科技【查询总入口】** <img src="yonghehebot.jpg" width="40"> —— @yonghehebot
+   官方客服机器人，2026 年横空出世的社工新势力，百亿级数据体量。同名查询、身份户籍、机主信息、开房记录、快递地址、车牌车主、账号密码、QQ/贴吧/微博/LOL/共享单车、手机查绑、三要素/二要素验证、同邮服、外卖地址、家庭地址，7×24 全天候在线。
+   https://t.me/yonghehebot
+
+2. **永和技术【2026 后起之秀】** <img src="yonghe_keji_2026bot.jpg" width="40"> —— @yonghe_keji_2026bot
+   永和矩阵技术中台，2026 年强势崛起的技术新贵。信息技术服务、软件开发、数据信息化、技术咨询与运维支持，7×24 全天候在线。
+   https://t.me/yonghe_keji_2026bot
+
+3. **永和信息服务【企业级校验】** <img src="yonghechadang2026_bot.jpg" width="40"> —— @yonghechadang2026_bot
+   企业级服务入口，百亿数据全库支撑。企业级信息校验、数据整理、名单比对、系统对接，7×24 全天候在线。
+   https://t.me/yonghechadang2026_bot
+
+4. **永和社工库机器人【档案查询】** <img src="YHSGK007BOT.jpg" width="40"> —— @YHSGK007BOT
+   主力查询机器人，百亿级档案数据覆盖。手机号、身份证、QQ号、微信号、银行卡、车牌号、邮箱、贴吧ID、微博ID、钉钉、快手、脸书、推特、IMEI，支持模糊身份证、手机号补齐，支持全国猎魔，官方客服 @vzuce。
+   https://t.me/YHSGK007BOT
+
+
 ## TG 社工库频道排行榜
 
 数据统计时间：2026-10-26（按成员数排序，每日刷新，每日新增至少 4 个实测入口）
@@ -162,27 +185,43 @@
 
 ## TG 社工库机器人
 
-37. **暗精灵免费查询机器人** <img src="AJL05_bot.jpg" width="40"> —— @AJL05_bot
+37. **永和信息科技【查询总入口】** <img src="yonghehebot.jpg" width="40"> —— @yonghehebot
+   永和社工矩阵官方客服机器人，2026 年横空出世的社工新势力，百亿级数据体量。可查询：同名查询、身份户籍、机主信息、开房记录、快递地址、车牌车主、账号密码、QQ/贴吧/微博/LOL/共享单车、手机查绑、三要素/二要素验证、QQ/机主姓名、同名联系方式、同邮服、外卖地址、家庭地址等，7×24 全天候在线。
+   https://t.me/yonghehebot
+
+38. **永和技术【2026 后起之秀】** <img src="yonghe_keji_2026bot.jpg" width="40"> —— @yonghe_keji_2026bot
+   永和社工矩阵技术中台，2026 年强势崛起的技术新贵。信息技术服务、软件开发、数据信息化、技术咨询与运维支持，7×24 全天候在线。
+   https://t.me/yonghe_keji_2026bot
+
+39. **永和信息服务【企业级校验】** <img src="yonghechadang2026_bot.jpg" width="40"> —— @yonghechadang2026_bot
+   永和社工矩阵企业级服务入口，百亿数据全库支撑。企业级信息校验、数据整理、名单比对、系统对接，7×24 全天候在线。
+   https://t.me/yonghechadang2026_bot
+
+40. **永和社工库机器人【档案查询】** <img src="YHSGK007BOT.jpg" width="40"> —— @YHSGK007BOT
+   永和社工矩阵主力查询机器人，百亿级档案数据覆盖。手机号、身份证、QQ号、微信号、银行卡、车牌号、邮箱、贴吧ID、微博ID、钉钉、快手、脸书、推特、IMEI，涵括多元档案信息，支持模糊身份证、手机号补齐，支持全国猎魔，官方客服 @vzuce。
+   https://t.me/YHSGK007BOT
+
+41. **暗精灵免费查询机器人** <img src="AJL05_bot.jpg" width="40"> —— @AJL05_bot
    暗精灵通知频道（@a_ajl）配套免费机器人，可查询：同名查询、身份户籍、机主信息、开房记录、快递地址、车牌车主、账号密码、QQ/贴吧/微博/LOL/共享单车等。
    https://t.me/AJL05_bot
 
-38. **免费社工库机器人分享** <img src="aishegongkubot_sgk2023_03_30bot.png" width="40"> —— @aishegongkubot_sgk2023_03_30bot
+42. **免费社工库机器人分享** <img src="aishegongkubot_sgk2023_03_30bot.png" width="40"> —— @aishegongkubot_sgk2023_03_30bot
    机器人形式的免费社工库分享，持续推荐最新好用的社工库机器人，对话式查询，不用加频道。
    https://t.me/aishegongkubot_sgk2023_03_30bot
 
-39. **查档王社工库机器人** <img src="cdw_001bot_cd777_swxvf.jpg" width="40"> —— @cdw_001bot_cd777_swxvf
+43. **查档王社工库机器人** <img src="cdw_001bot_cd777_swxvf.jpg" width="40"> —— @cdw_001bot_cd777_swxvf
    查档王系列对话式查档机器人。
    https://t.me/cdw_001bot_cd777_swxvf
 
-40. **司马查档 社工库机器人** <img src="sima1314.jpg" width="40"> —— @sima1314
+44. **司马查档 社工库机器人** <img src="sima1314.jpg" width="40"> —— @sima1314
    司马查档机器人，社工库查询 + 手机定位；人工客服 @ub123，私信限制 @sima5bot，源头社工库 @sima7bot。
    https://t.me/sima1314
 
-41. **神舟社工库** <img src="szskcx_bot.jpg" width="40"> —— @szskcx_bot
+45. **神舟社工库** <img src="szskcx_bot.jpg" width="40"> —— @szskcx_bot
    神舟社工库查询机器人，配套频道 @shenzhoupd（14.5 万成员），系列自助查询入口，主打常规查档。
    https://t.me/szskcx_bot
 
-42. **巨人社工库【免费机器人6号】** <img src="jrsgk6_bot.jpg" width="40"> —— @jrsgk6_bot
+46. **巨人社工库【免费机器人6号】** <img src="jrsgk6_bot.jpg" width="40"> —— @jrsgk6_bot
    🎁机器人数据来自互联网，仅供查询自身隐私信息是否泄露，请勿用于实施违法犯罪活动。
 
 ✍🏻发送内容查询 &quot;用户名/名字/身份证/手机号/邮箱/信用代码&quot;
@@ -191,82 +230,82 @@
 🟢官方客服: @aijuren
    https://t.me/jrsgk6_bot
 
-43. **Kali免費社エ庫机器人【新】** <img src="mfsgk.jpg" width="40"> —— @mfsgk
+47. **Kali免費社エ庫机器人【新】** <img src="mfsgk.jpg" width="40"> —— @mfsgk
    🤖 社エ机器人 ☞ @MFSGK ☜
 📢 官方通知 ☞ @KaliSGK ☜
 💰 高级付費査挡 ☞ @KaliCD ☜
 👩‍💼 官方客服 ☞ @KaliGFbot ☜
    https://t.me/mfsgk
 
-44. **盒武器 - AI赋能社工库** <img src="hewuqi.jpg" width="40"> —— @hewuqi
+48. **盒武器 - AI赋能社工库** <img src="hewuqi.jpg" width="40"> —— @hewuqi
    重新定义盒武器	通知频道👉 @hewuqi_news	人工客服👉 @hwqkfbot	双向机器👉 @he_chatbot		⚠️注意⚠️:bot对话上带广告标的广告100%为诈骗,请勿轻信,认准官方 @hewuqi
    https://t.me/hewuqi
 
-45. **空壳社工库机器人②** <img src="kongke2bot.jpg" width="40"> —— @kongke2bot
+49. **空壳社工库机器人②** <img src="kongke2bot.jpg" width="40"> —— @kongke2bot
    全新一代空壳机器人，注册即送10积分，拉人享更多奖励
    https://t.me/kongke2bot
 
-46. **上帝之眼｜Max 一线 ｜开户机器人** <img src="sdzymaxbot.jpg" width="40"> —— @sdzymaxbot
+50. **上帝之眼｜Max 一线 ｜开户机器人** <img src="sdzymaxbot.jpg" width="40"> —— @sdzymaxbot
    You can contact @sdzymaxbot right away.
    https://t.me/sdzymaxbot
 
-47. **查档王免费开户机器人** <img src="cd777.jpg" width="40"> —— @cd777
+51. **查档王免费开户机器人** <img src="cd777.jpg" width="40"> —— @cd777
    全网最牛5年老牌社工库 数据数百亿	独家姓名选人(可手动按选择地区年龄)	全网独家 非常方便 新人也好上手	查人是一流的,还带循环查询(避免多次查询)	独家2亿车主数据,手机身份证数十亿	新人免费5次.邀请不限制
    https://t.me/cd777
 
-48. **免费开户机器人（天启-永不落幕）** <img src="aisgk1.jpg" width="40"> —— @aisgk1
+52. **免费开户机器人（天启-永不落幕）** <img src="aisgk1.jpg" width="40"> —— @aisgk1
    ai社工库通知：	✨双向联系：t.me/Aisgksxbot 	✨查档联系唯一客服：t.me/Aisgk888	✨ 群组：https://t.me/+lW8IyT3-5SY0MGVh	✨任何私聊你的都是骗子
    https://t.me/aisgk1
 
-49. **一诺社工库-珞珈** <img src="xhgsgk_luojiabot.jpg" width="40"> —— @xhgsgk_luojiabot
+53. **一诺社工库-珞珈** <img src="xhgsgk_luojiabot.jpg" width="40"> —— @xhgsgk_luojiabot
    You can contact @xhgsgk_luojiabot right away.
    https://t.me/xhgsgk_luojiabot
 
-50. **法拉利开盒社工库** <img src="wykhbot.jpg" width="40"> —— @wykhbot
+54. **法拉利开盒社工库** <img src="wykhbot.jpg" width="40"> —— @wykhbot
    🟢官方客服: @fllrgkf	2号免费机器人 @FaLaLiSGKbot	❗如果无法私信下方客服	🔥请私信 @fllkhkfbot 	🟢官方频道: @fllsgkpd
    https://t.me/wykhbot
 
-51. **🚀暗网免费社工库 @CXSGK** <img src="anwangsgkbot.jpg" width="40"> —— @anwangsgkbot
+55. **🚀暗网免费社工库 @CXSGK** <img src="anwangsgkbot.jpg" width="40"> —— @anwangsgkbot
    通知频道 ☞ @CXSGK ☜	社工机器人 ☞ @AnWangSGKbot ☜	唯一人工客服 ☞ @awSGKkfbot ☜
    https://t.me/anwangsgkbot
 
-52. **雪花查档机器人 源头查档 免费社工库机器人** <img src="udhbot.jpg" width="40"> —— @udhbot
+56. **雪花查档机器人 源头查档 免费社工库机器人** <img src="udhbot.jpg" width="40"> —— @udhbot
    🔥🔥源头社工库机器人 @udhbot 	💎价格表 @xuehi 	💎唯一客服 @xuepp 	💎双向点我 @p5abot	💎防失联 @q75555	💎身份证机器人 @datou5bot	💎核验机器人 @heyan11bot
    https://t.me/udhbot
 
-53. **司马核验 查询 综合机器人 @ub123** <img src="p7vbot.jpg" width="40"> —— @p7vbot
+57. **司马核验 查询 综合机器人 @ub123** <img src="p7vbot.jpg" width="40"> —— @p7vbot
    ✅ @kb789 机器人使用教程	✅人工客服 @ub123   	✅私信限制 @sima5bot	✅源头社工库机器人 @sima7bot	✅公安大头机器人 @sima8bot	✅主频道   @fr520	✅加工机器人 @p7qbot
    https://t.me/p7vbot
 
-54. **🟥司马查档 客服 @ub123** <img src="ub123.jpg" width="40"> —— @ub123
+58. **🟥司马查档 客服 @ub123** <img src="ub123.jpg" width="40"> —— @ub123
    ✅私信限制 @sima5bot ✅社工库机器人 @sima7bot ✅核验机器人 @p7vbot ✅频道 @oorroo
    https://t.me/ub123
 
-55. **骑士大头** <img src="huji7bot.jpg" width="40"> —— @huji7bot
+59. **骑士大头** <img src="huji7bot.jpg" width="40"> —— @huji7bot
    ❤️‍🔥 社工库 @fa6bot 	❤️‍🔥 客服 @ngccc	❤️‍🔥双向点我 @mysbot 	❤️‍🔥 主频道 @uuub3
    https://t.me/huji7bot
 
-56. **💋coco社工库 开房记录 聊天记录** <img src="coco1122bot.jpg" width="40"> —— @coco1122bot
+60. **💋coco社工库 开房记录 聊天记录** <img src="coco1122bot.jpg" width="40"> —— @coco1122bot
    🔥案例频道 @hr1314  	🔥 防失联 @qqxxqq	🔥人工客服 @w3777	🔥私信限制点我 @ycpBot	🔥手机定位99U 🔥手机定位99U	🔥开房记录350u🔥开房记录350u	COCO社工库🔥微信好友🔥通话记录🔥查档🔥开户🔥
    https://t.me/coco1122bot
 
-57. **Ai 会员专属（奥创）** <img src="aisgk111111bot.jpg" width="40"> —— @aisgk111111bot
+61. **Ai 会员专属（奥创）** <img src="aisgk111111bot.jpg" width="40"> —— @aisgk111111bot
    ai社工库通知：	✨双向联系：t.me/Aisgksxbot	✨查档联系唯一客服：t.me/Aisgk888	✨群组： https://t.me/+lW8IyT3-5SY0MGVh	✨任何私聊你的都是骗子
    https://t.me/aisgk111111bot
 
-58. **FanHuaSGK** <img src="FanHuaSGK_bot.jpg" width="40"> —— @FanHuaSGK_bot
+62. **FanHuaSGK** <img src="FanHuaSGK_bot.jpg" width="40"> —— @FanHuaSGK_bot
    You can contact @FanHuaSGK_bot right away.
    https://t.me/FanHuaSGK_bot
 
-59. **侦探站社工库** <img src="zhentanzhanbot.jpg" width="40"> —— @zhentanzhanbot
+63. **侦探站社工库** <img src="zhentanzhanbot.jpg" width="40"> —— @zhentanzhanbot
    侦探站社工库官方查询机器人，人工客服 @zhentanzhang，客服体系清晰，简介自带防骗提醒（认准「侦探长」全拼，多字少字都是骗子），适合走人工对接的用户。
    https://t.me/zhentanzhanbot
 
-60. **Home 社工库机器人** <img src="HomeSGKBOT.jpg" width="40"> —— @HomeSGKBOT
+64. **Home 社工库机器人** <img src="HomeSGKBOT.jpg" width="40"> —— @HomeSGKBOT
    Home 社工库系列查询机器人，简介简洁（TG essential bot），主打基础自助查询，适合入门用户尝试。
    https://t.me/HomeSGKBOT
 
-61. **魔眼社工库 76** <img src="zhuxi8001bot.jpg" width="40"> —— @zhuxi8001bot
+65. **魔眼社工库 76** <img src="zhuxi8001bot.jpg" width="40"> —— @zhuxi8001bot
    魔眼社工库查询机器人（76 号），简介主打服务态度「用心、用功、用脑，服务好所有客户」，系列老牌入口之一。
    https://t.me/zhuxi8001bot
 
@@ -296,6 +335,8 @@
    https://sites.google.com/view/shegongku/
    <img src="site_shegongku.png" width="600">
 
+<img src="yonghe_banner_anime.jpg" width="600">
+
 ## 使用说明
 
 - 频道成员数每日刷新，排名随真实数据变动，收录只看实测可用的入口
@@ -306,3 +347,11 @@
 ## 客服对接
 
 TG 客服：https://t.me/yonghehebot
+
+<img src="yonghe_bot_1.png" width="600">
+
+<img src="yonghe_bot_2.png" width="600">
+
+<img src="yonghe_bot_3.png" width="600">
+
+<img src="yonghe_consult.jpg" width="600">
