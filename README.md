@@ -315,6 +315,14 @@
    自称「最强数据 免费查询」，实际没什么数据量，免费接口可以白嫖一下，不建议消费。
    https://t.me/yssgmfchabot
 
+67. **绿巨人社工库** <img src="ljr_sgk_bot.jpg" width="40"> —— @LJR_SGK_BOT
+   免费查询机器人，支持用户名/名字/身份证/手机号/邮箱/信用代码查询，官方频道 @LJRTZ_PD，官方客服 @LJR_KeFu。
+   https://t.me/LJR_SGK_BOT
+
+68. **葫芦侠社工库** <img src="hlxsgkbot.jpg" width="40"> —— @HlXSgKbot
+   月活 1.1 万的查档机器人，官方客服 @HlXSgk，配套自助批发下单机器人 @HlxDFbot、假地址机器人 @HlXtycbot。
+   https://t.me/HlXSgKbot
+
 ## 网站入口（本站资源）
 
 1. **个人信息查询社工库** —— 主流社工库查询入口汇总，支持多库数据比对
